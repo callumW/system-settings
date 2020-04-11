@@ -1,0 +1,14 @@
+clang-format
+cmake
+doxygen
+gdb
+gdbm
+glfw
+glm
+libffi
+llvm
+openssl@1.1
+python@3.8
+readline
+sqlite
+xz
