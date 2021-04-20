@@ -18,5 +18,6 @@
 	"trim_trailing_white_space_on_save": true,
 	"auto_complete": false,
 	"mini_diff": false,
-	"show_git_status": false
+	"show_git_status": false,
+	"folder_exclude_patterns": []
 }
