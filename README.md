@@ -4,3 +4,4 @@ to get back if my computer died.
 
 ## Map
 * [Homebrew/](homebrew/homebrew.md) Settings relating to homebrew
+* [sublime/](sublinme/) Settings for Sublime Text 3

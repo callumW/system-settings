@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 0,
+	"rulers":
+	[
+		120
+	],
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"auto_complete": false,
+	"mini_diff": false,
+	"show_git_status": false
+}
