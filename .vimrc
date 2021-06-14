@@ -11,7 +11,7 @@ set showcmd
 
 " draw an underline under the line the cursor is on
 highlight clear CursorLine
-highlight CursorLine guibg=Yellow ctermfg=DarkBlue ctermbg=Yellow ctermfg=DarkBlue
+highlight CursorLine gui=underline cterm=underline term=underline
 set cursorline
 
 
