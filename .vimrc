@@ -9,6 +9,8 @@ set softtabstop=4
 set expandtab
 set showcmd
 
+set fileformats=unix,dos
+
 " draw an underline under the line the cursor is on
 highlight clear CursorLine
 highlight CursorLine gui=underline cterm=underline term=underline
