@@ -1,5 +1,5 @@
 if has("gui_win32")
-    set guifont=Monospace:h14
+    set guifont=Courier_New:h11:cANSI:qDRAFT
 else
     set guifont=Monospace\ 14
 endif
