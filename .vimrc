@@ -48,3 +48,5 @@ set backspace=indent,eol,start
 
 " trim trailing whitespace
 autocmd BufWritePre * :%s/\s\+$//e
+
+colorscheme desert
