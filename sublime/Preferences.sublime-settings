@@ -1,23 +1,26 @@
 {
+	"auto_complete": false,
 	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
 	"default_line_ending": "unix",
 	"draw_white_space": "all",
-	"font_size": 12,
+	"folder_exclude_patterns":
+	[
+	],
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"margin": 0,
+	"mini_diff": false,
 	"rulers":
 	[
-		120
+		80
 	],
+	"show_git_status": false,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"auto_complete": false,
-	"mini_diff": false,
-	"show_git_status": false,
-	"folder_exclude_patterns": []
+	"hardware_acceleration": "opengl",
 }
