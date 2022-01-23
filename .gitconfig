@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Callum Wilson
+	email = calwilson@live.co.uk
+[core]
+	editor = vim

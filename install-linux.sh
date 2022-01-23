@@ -13,3 +13,5 @@ cp vim-themes/colors/* ~/.vim/colors/
 mkdir -p ~/.config/sublime-text/Packages/User
 cp sublime/Preferences.sublime-settings ~/.config/sublime-text/Packages/User
 cp sublime/Package\ Control.sublime-settings ~/.config/sublime-text/Packages/User
+
+cp .gitconfig ~/
