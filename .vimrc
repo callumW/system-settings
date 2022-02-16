@@ -24,6 +24,8 @@ set showmatch
 set incsearch
 set hlsearch
 
+set wildignore+=*.o
+
 
 set ruler
 
