@@ -8,6 +8,10 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 set showcmd
+set visualbell
+set list
+set lcs=tab:»·
+set lcs+=trail:·
 
 set fileformats=unix,dos
 
