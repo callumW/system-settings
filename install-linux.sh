@@ -7,6 +7,8 @@ cp .vimrc ~/
 cp .gvimrc ~/
 cp tmux/.tmux.conf ~/
 
+cp .ctags ~/
+
 mkdir -p ~/.vim/colors
 cp vim-themes/colors/* ~/.vim/colors/
 
