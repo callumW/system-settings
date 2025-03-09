@@ -34,7 +34,7 @@ set wildignore+=*.o
 set ruler
 
 " Uncomment below to show a color column at 120, looks kinda gross though
-"set colorcolumn=120
+set colorcolumn=80
 "highlight ColorColumn ctermbg=lightcyan guibg=blue
 
 
